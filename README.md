@@ -144,13 +144,3 @@ Our system allows organizations to manage it's Human Capital optimally for highe
 
 username `root`
 password `baraza`
-
-#### DEMO Accounts
-
-Applicants
-
-dennisgichangi@gmail.com - baraza
-
-Employees
-
-
